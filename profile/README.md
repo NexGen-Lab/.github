@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Open [CodeGuidelines.md]
+Open [https://github.com/NexGen-Lab/.github/blob/b3f685142c355938c516dedfb1a925d71657378a/CodeGuidelines.md]
 
 <!--
 
